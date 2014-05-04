@@ -30,7 +30,7 @@
     
     MagicalCreature *dragon = [MagicalCreature new];
     dragon.name = @"Dragon";
-    dragon.description =@" He's a bad MOFO";
+    dragon.description =@"Breaths Fire";
     dragon.weapon = @"Fire";
     dragon.image = [UIImage imageNamed:@"dragon"];
     
